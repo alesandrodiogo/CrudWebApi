@@ -13,7 +13,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<Contexto>(opcoes => 
 opcoes.UseSqlServer(builder.Configuration.GetConnectionString("ConexaoDb")));
 
+builder.Services.AddCors();
+
 var app = builder.Build();
+
+app.UseCors(opcoes => opcoes.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
