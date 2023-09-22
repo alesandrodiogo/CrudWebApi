@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\CRUDAPI\\CRUDAPI.csproj": {}
+    "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\crudapi\\CRUDAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\CRUDAPI\\CRUDAPI.csproj": {
+    "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\crudapi\\CRUDAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
+        "projectUniqueName": "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\crudapi\\CRUDAPI.csproj",
         "projectName": "CRUDAPI",
-        "projectPath": "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\CRUDAPI\\CRUDAPI.csproj",
+        "projectPath": "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\crudapi\\CRUDAPI.csproj",
         "packagesPath": "C:\\Users\\ALESANDRO.DIOGO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\CRUDAPI\\obj\\",
+        "outputPath": "C:\\Users\\ALESANDRO.DIOGO\\Documents\\alesandro\\CrudAngularWebApi\\crudapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALESANDRO.DIOGO\\AppData\\Roaming\\NuGet\\NuGet.Config",
